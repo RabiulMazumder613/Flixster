@@ -25,7 +25,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 Most challenges faced were being able to follow some steps as the Android Studio has updated from the version shown in the videos so some steps had some added steps that I had to figure out on my own. Also the person who is explaining the steps would use a shortcut to do something and I also had to figure out on my own how he got to that setting.
-Besides that all other challenges were just techinical issues such as minSdkVersion was set to version 16 and I had to change it to version 21. When importing the project entering my login information just doesn't work for some reason so I had to use a token instead. BUt I still had issues importing and I had to enter stuff into Git bash.
+Besides that all other challenges were just techinical issues such as minSdkVersion was set to version 16 and I had to change it to version 21. When importing the project entering my login information just doesn't work for some reason so I had to use a token instead. But I still had issues importing and I had to enter stuff into Git bash.
 
 ### Open-source libraries used
 
